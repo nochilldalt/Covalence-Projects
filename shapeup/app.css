@@ -1,0 +1,75 @@
+.card{
+    text-align: center;
+    margin: 3em;
+   border: 0.2em solid white;
+    color: white;
+    background-color: black
+}
+
+.navbar{
+    background-color: black;
+    color:violet;
+  
+}
+
+body{
+    background-image: linear-gradient(to bottom right,violet,cyan);
+  }
+
+ 
+
+.canvas{
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    background-color: cyan;
+    position: relative;
+    border: 5px solid black
+}
+
+.pannel{
+   
+    height: 600px;
+    width: 250px;
+    background-color: violet;
+    border: 5px solid black;
+}
+
+.shape{
+/*background-color: black; */
+    position: absolute;
+
+}
+
+#rectangle{
+    background-color: green;
+    opacity: .50;
+}
+
+#square{
+    background-color: darkorange;
+    opacity: .50;
+}
+
+#circle{
+    background-color: blueviolet;
+    opacity: .50;
+    border-radius: 50%;
+}
+
+#triangle{
+    opacity: .50;
+}
+
+.btn1{
+    background-color: blueviolet
+}
+.btn2{
+    background-color:cyan
+}
+.btn3{
+    background-color: blueviolet
+}
+.btn4{
+    background-color: cyan
+}
